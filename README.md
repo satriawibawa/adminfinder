@@ -1,3 +1,2 @@
-# newscatbot
-Bot Auto read NewsCat
-"# adminfinder" 
+# adminfinder
+Simple bash admin finder
